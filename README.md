@@ -1,3 +1,4 @@
-# Projekat1
-neki opis........
-jos neki opis
+# Projekat1 
+
+ Wikipedia F#
+ https://sr.wikipedia.org/sr-ec/F_Sharp
